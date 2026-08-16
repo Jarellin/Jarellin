@@ -1,16 +1,24 @@
-### Hi there 👋
-[![Jarellin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarellin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**LLLJJJYYY/LLLJJJYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jarellin 👋
 
-Here are some ideas to get you started:
+> Stay curious. Build things. Share what you learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer and lifelong learner who enjoys turning ideas into working, shareable projects.
+
+### What you'll find here
+
+- 🌱 Experiments, learning notes, and projects in progress
+- 🧩 Web development and structured technical writing
+- 🛠️ Small, practical things built in the open
+
+### Selected projects
+
+- [Jarellin.github.io](https://github.com/Jarellin/Jarellin.github.io) — my personal site and public home on the web
+- [Master-Graduation](https://github.com/Jarellin/Master-Graduation) — academic writing and typesetting with TeX
+- [Graduation-Project](https://github.com/Jarellin/Graduation-Project) — an early web project from my learning journey
+
+### Find me
+
+[![Website](https://img.shields.io/badge/Website-jarellin.github.io-ff6b45?style=for-the-badge&logo=safari&logoColor=white)](https://jarellin.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jarellin-111728?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jarellin)
+
+<sub>This profile is a work in progress—just like every good project.</sub>
